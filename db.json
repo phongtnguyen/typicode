@@ -1,0 +1,202 @@
+{
+    "monsters": [
+        {
+        "name": "Anjanath",
+        "classification": "Brute",
+        "icon": "anjanath",
+        "threat": 1
+        },
+        {
+        "name": "Barroth",
+        "classification": "Brute",
+        "icon": "barroth",
+        "threat": 1
+        },
+        {
+        "name": "Deviljho",
+        "classification": "Brute",
+        "icon": "deviljho",
+        "threat": 2
+        },
+        {
+        "name": "Radobaan",
+        "classification": "Brute",
+        "icon": "radobaan",
+        "threat": 1
+        },
+        {
+        "name": "Uragaan",
+        "classification": "Brute",
+        "icon": "uragaan",
+        "threat": 2
+        },
+        {
+        "name": "Azure Rathalos",
+        "classification": "Flying",
+        "icon": "azure rathalos",
+        "threat": 2
+        },
+        {
+        "name": "Bazelgeuse",
+        "classification": "Flying",
+        "icon": "bazelgeuse",
+        "threat": 2
+        },
+        {
+        "name": "Black Diablos",
+        "classification": "Flying",
+        "icon": "black diablos",
+        "threat": 2
+        },
+        {
+        "name": "Diablos",
+        "classification": "Flying",
+        "icon": "diablos",
+        "threat": 2
+        },
+        {
+        "name": "Legiana",
+        "classification": "Flying",
+        "icon": "legiana",
+        "threat": 2
+        },
+        {
+        "name": "Paolumu",
+        "classification": "Flying",
+        "icon": "paolumu",
+        "threat": 1
+        },
+        {
+        "name": "Pink Rathian",
+        "classification": "Flying",
+        "icon": "pink rathian",
+        "threat": 2
+        },
+        {
+        "name": "Rathalos",
+        "classification": "Flying",
+        "icon": "rathalos",
+        "threat": 2
+        },
+        {
+        "name": "Rathian",
+        "classification": "Flying",
+        "icon": "rathian",
+        "threat": 1
+        },
+        {
+        "name": "Dodogama",
+        "classification": "Fanged",
+        "icon": "dodogama",
+        "threat": 1
+        },
+        {
+        "name": "Great Girros",
+        "classification": "Fanged",
+        "icon": "great girros",
+        "threat": 1
+        },
+        {
+        "name": "Great Jagras",
+        "classification": "Fanged",
+        "icon": "great jagras",
+        "threat": 1
+        },
+        {
+        "name": "Odogaron",
+        "classification": "Fanged",
+        "icon": "odogaron",
+        "threat": 2
+        },
+        {
+        "name": "Tobi-Kadachi",
+        "classification": "Fanged",
+        "icon": "tobi-kadachi",
+        "threat": 1
+        },
+        {
+        "name": "Jyuratodus",
+        "classification": "Piscine",
+        "icon": "jyuratodus",
+        "threat": 1
+        },
+        {
+        "name": "Lavasioth",
+        "classification": "Piscine",
+        "icon": "lavasioth",
+        "threat": 2
+        },
+        {
+        "name": "Kulu-Ya-Ku",
+        "classification": "Bird",
+        "icon": "kulu-ya-ku",
+        "threat": 1
+        },
+        {
+        "name": "Pukei-Pukei",
+        "classification": "Bird",
+        "icon": "pukei-pukei",
+        "threat": 1
+        },
+        {
+        "name": "Tziki-Ya-Ku",
+        "classification": "Bird",
+        "icon": "tziki-ya-ku",
+        "threat": 1
+        },
+        {
+        "name": "Kirin",
+        "classification": "Elder",
+        "icon": "kirin",
+        "threat": 3
+        },
+        {
+        "name": "Kulve Taroth",
+        "classification": "Elder",
+        "icon": "kulve taroth",
+        "threat": 3
+        },
+        {
+        "name": "Kushala Daora",
+        "classification": "Elder",
+        "icon": "kushala daora",
+        "threat": 3
+        },
+        {
+        "name": "Lunastra",
+        "classification": "Elder",
+        "icon": "lunastra",
+        "threat": 3
+        },
+        {
+        "name": "Nergigante",
+        "classification": "Elder",
+        "icon": "nergigante",
+        "threat": 3
+        },
+        {
+        "name": "Teostra",
+        "classification": "Elder",
+        "icon": "teostra",
+        "threat": 3
+        },
+        {
+        "name": "Vaal Hazak",
+        "classification": "Elder",
+        "icon": "vaal hazak",
+        "threat": 3
+        },
+        {
+        "name": "Xeno'jiiva",
+        "classification": "Elder",
+        "icon": "xeno'jiiva",
+        "threat": 3
+        },
+        {
+        "name": "Zorah Magdaros",
+        "classification": "Elder",
+        "icon": "zorah magdaros",
+        "threat": 3
+        }
+    ]
+}
